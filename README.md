@@ -7,8 +7,4 @@
 <br>
 🐬Highly Intersted with Cyber Security 
  <br />
-<br >
- <br />
-<br >
- <br />
 🐬Doing my things with Islamic morality
