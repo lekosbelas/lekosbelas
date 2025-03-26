@@ -4,6 +4,8 @@
 </div>
 
 <h1 align="center">
-    <img src="https://github.com/lekosbelas/lekosbelas/blob/main/cappybara.gif?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Lekosbelas!;" />
+    <img src="https://github.com/lekosbelas/lekosbelas/blob/main/cappybara.gif?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
 </h1>
+
+
 
